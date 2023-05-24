@@ -13,7 +13,7 @@ The Building Data Extractor is a Python application that allows you to extract a
 
 1. Clone the repository:
    ```
-   
+   git https://github.com/Zahidrahim94/Building-Data-Extractor.git
    ```
 
 2. Install the required dependencies:
